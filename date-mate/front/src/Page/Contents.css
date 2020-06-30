@@ -1,0 +1,21 @@
+.label-contents-weather{
+    color:black;
+    text-decoration: none;
+    text-decoration-color: black;
+    padding: 8px;
+}
+
+.label-contents-weather:visited{
+    color:black;
+}
+
+.label-contents-place{
+    color:black;
+    text-decoration: none;
+    text-decoration-color: black;
+    padding: 8px;
+}
+
+.label-contents-place:visited{
+    color:black;
+}

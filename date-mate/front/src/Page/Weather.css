@@ -1,0 +1,52 @@
+.weather-container{
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+
+.weather-container > div {
+    border:1px solid black;
+    width: 530px;
+    height: 610px;
+    display: inline-block;
+}
+
+.map-image {
+    position: relative;
+    width: 100%;
+}
+
+.seoul {
+    position: absolute;
+    top: 380px;
+    left: -10px;
+    width: 100%;
+}
+
+.busan {
+    position: absolute;
+    top: 600px;
+    left: 100px;
+    width: 100%;
+}
+
+.gwangju {
+    position: absolute;
+    top: 600px;
+    left: -30px;
+    width: 100%;
+}
+
+.suwon {
+    position: absolute;
+    top: 420px;
+    left: 10px;
+    width: 100%;
+}
+
+.daejeon {
+    position: absolute;
+    top: 500px;
+    left: -10px;
+    width: 100%;
+}
